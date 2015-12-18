@@ -11,7 +11,7 @@ import javax.annotation.*;
  * User: HolyEyE
  * Date: 2013. 12. 4. Time: 오후 10:51
  */
-@Service
+//@Service
 public class MockCreateService {
 
     @Autowired MemberService memberService;
